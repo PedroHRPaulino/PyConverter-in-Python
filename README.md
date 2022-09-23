@@ -1,2 +1,2 @@
 # PyConverter-in-Python
- Image conversion program made entirely in Python for the purpose of converting image files to certain formats.
+When opening the program by executable or code, please choose the image file you want to convert, after that click "Convert", and that's it. File Converted!
